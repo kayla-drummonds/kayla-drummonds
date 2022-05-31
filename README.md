@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayla-drummonds
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning advanced Java.
 - 📫 How to reach me: michaela.s.drummonds@gmail.com
 
 <!---

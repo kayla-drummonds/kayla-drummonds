@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayla-drummonds
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning JavaScript and Python.
+- 🌱 I’m currently learning how to develop web applications in Spring.
 - 📫 How to reach me: michaela.s.drummonds@gmail.com | www.linkedin.com/in/michaela-drummonds
 
 <!---

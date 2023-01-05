@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kayla-drummonds
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning how to develop web applications in Spring.
-- 📫 How to reach me: michaela.s.drummonds@gmail.com | www.linkedin.com/in/michaela-drummonds
+- 🌱 I’m currently improving my previous Spring web applications.
+- 📫 How to reach me: www.linkedin.com/in/michaela-drummonds
 
 <!---
 kayla-drummonds/kayla-drummonds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
